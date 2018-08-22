@@ -2,7 +2,7 @@
 public class Main {
 	
 	public static void main(String[] args) {
-		System.out.println("Pruebas con obetos tipo profeso1r");
+		System.out.println("Pruebas con obetos tipo profesor1");
 		Profesor ap = new ProfesorArtesPlasticas();
 		Profesor ed = new ProfesorEduFisica();
 		Profesor mat = new ProfesorMate();
